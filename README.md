@@ -1,9 +1,10 @@
 # github-portfolio
-My GitHub portfolio
+Personal repository for tracking my learning, projects, and interests in computer science.
 
 # Hello, I am Bulgan-Erdene Erdenebat
 
 Welcome to my GitHub portfolio.  
+
 This repository is a personal space where I keep track of my learning, projects, and interests related to computer science and technology. It reflects my progress over time and will continue to evolve as I gain more experience.
 
 ---
