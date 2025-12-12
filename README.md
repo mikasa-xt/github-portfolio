@@ -1,19 +1,18 @@
 # github-portfolio
-My GitHub portfolio for Computer Science studies at USW
+My GitHub portfolio
 
-# Hello, I'm Bulgan-Erdene Erdenebat
+# Hello, I am Bulgan-Erdene Erdenebat
 
 Welcome to my GitHub portfolio.  
-This repository is used to showcase who I am, what I am studying, and the skills I am developing during my Computer Science journey.
+This repository is a personal space where I keep track of my learning, projects, and interests related to computer science and technology. It reflects my progress over time and will continue to evolve as I gain more experience.
 
 ---
 
 # A Bit About Me
 
 I am a first-year Computer Science student at the University of South Wales.  
-I also completed my foundation year at USW, which helped me build a strong base before starting my degree.
 
-I am still new to programming and technology, and I do not consider myself an expert. However, I am adaptable, patient, and willing to learn. I like understanding things properly rather than rushing through them.
+I am still early in my journey, but I am consistent and open to learning new tools, ideas, and technologies.
 
 ---
 
@@ -23,7 +22,7 @@ I am still new to programming and technology, and I do not consider myself an ex
 - Learning programming
 - Practising problem-solving and logical thinking
 
-This GitHub account will grow as I continue my studies and complete more projects.
+This space will be updated regularly as I learn new things and work on new projects.
 
 ---
 
