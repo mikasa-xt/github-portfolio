@@ -5,7 +5,7 @@ This repository is a personal portfolio used to track my learning, projects, and
 ## About Me
 
 Hello, my name is Bulgan-Erdene Erdenebat.  
-I am a first-year **Computer Science** student at the **University of South Wales**.
+I am a first-year Computer Science student.
 
 I am still at an early stage of my learning journey, but I am consistent, motivated, and open to learning new tools, ideas, and technologies. This portfolio helps me document my development and reflect on my progress.
 
