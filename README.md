@@ -1,59 +1,45 @@
-# github-portfolio
-Personal repository for tracking my learning, projects, and interests in computer science.
+# GitHub Portfolio
 
-# Hello, I am Bulgan-Erdene Erdenebat
+This repository is a personal portfolio used to track my learning, projects, and interests in computer science. It reflects my progress over time and will continue to be updated as I gain more experience and knowledge.
 
-Welcome to my GitHub portfolio.  
+## About Me
 
-This repository is a personal space where I keep track of my learning, projects, and interests related to computer science and technology. It reflects my progress over time and will continue to evolve as I gain more experience.
+Hello, my name is Bulgan-Erdene Erdenebat.  
+I am a first-year **Computer Science** student at the **University of South Wales**.
 
----
-
-# A Bit About Me
-
-I am a first-year Computer Science student at the University of South Wales.  
-
-I am still early in my journey, but I am consistent and open to learning new tools, ideas, and technologies.
-
----
+I am still at an early stage of my learning journey, but I am consistent, motivated, and open to learning new tools, ideas, and technologies. This portfolio helps me document my development and reflect on my progress.
 
 ## Current Focus
 
-- Studying Computer Science at university
-- Learning programming
-- Practising problem-solving and logical thinking
+I am currently focusing on:
+- Studying Computer Science at university  
+- Learning programming fundamentals  
+- Practising problem-solving and logical thinking  
 
-This space will be updated regularly as I learn new things and work on new projects.
-
----
+This repository will be updated regularly as I learn new concepts and work on new projects.
 
 ## Skills
 
 ### Technical Skills
-- Python (basic – preferred language)
-- Programming fundamentals
-- Problem-solving
+- Python (basic level – preferred language)  
+- Programming fundamentals  
+- Problem-solving  
 
 ### Soft Skills
-- Adaptability
-- Problem-solving
-- Willingness to learn
+- Adaptability  
+- Willingness to learn  
+- Logical thinking  
 
----
+## Personal Interests
 
-##  Personal Interests
-
-- Music and musical instruments
-- Gaming
-- Anime
-- Technology and computers
-
----
+- Music and musical instruments  
+- Gaming  
+- Anime  
+- Technology and computers  
 
 ## Future Goals
 
-My long-term goal is to work in the gaming industry.  
-I am open to learning anything that will help me reach this goal, including programming, game development, and related technologies.
+My long-term goal is to work in the gaming industry. I am open to learning any skills that will help me achieve this goal, including programming, game development, and other related technologies.
 
 ---
 
